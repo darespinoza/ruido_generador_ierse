@@ -33,8 +33,9 @@ pyparsing==3.1.4
 pyproj==3.6.1
 python-dateutil==2.9.0.post0
 pytz==2024.1
-# pywin32==306
+pywin32==306
 pyzmq==26.2.0
+scipy==1.14.1
 shapely==2.0.6
 six==1.16.0
 stack-data==0.6.3
